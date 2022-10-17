@@ -3,7 +3,7 @@
 
 ## [Cyberus](https://www.facebook.com/cyberustud "Cyberus")
 
-![Cyberus Logo]([img/icon.png](https://scontent.fcai20-1.fna.fbcdn.net/v/t39.30808-6/274892753_127037413174618_5531246449082956709_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE0Zj-MuFGFN3pGEDAsQXCRu8r_PxQhLP67yv8_FCEs_lmbzg83MRNXH5vM9OZvibYDr1FaHg3yQyeGa4Ip1zbh&_nc_ohc=aZHsVne4h4wAX8-yJpE&_nc_ht=scontent.fcai20-1.fna&oh=00_AT8vLK4YpMKoWr-EHdhPJsZR2tSt8XMH3uADvtni8HkLXQ&oe=63517DD5))
+![Cyberus Logo](https://scontent.fcai20-1.fna.fbcdn.net/v/t39.30808-6/274892753_127037413174618_5531246449082956709_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE0Zj-MuFGFN3pGEDAsQXCRu8r_PxQhLP67yv8_FCEs_lmbzg83MRNXH5vM9OZvibYDr1FaHg3yQyeGa4Ip1zbh&_nc_ohc=aZHsVne4h4wAX8-yJpE&_nc_ht=scontent.fcai20-1.fna&oh=00_AT8vLK4YpMKoWr-EHdhPJsZR2tSt8XMH3uADvtni8HkLXQ&oe=63517DD5)
 
 ------------
 
@@ -60,7 +60,7 @@ and **logistics** Department.
 
 ## Entry level
 
--***Linux***
++ ***Linux***
  >***What is Linux?***\
  > Linux is a family of open source Unix-like operating systems based on the Linux kernel.
  >
@@ -113,7 +113,7 @@ https://www.geeksforgeeks.org/tcp-ip-model/
 >+ OSI Model
 https://www.geeksforgeeks.org/layers-of-osi-model
 >-------
-+***Web Penetration Testing***
++ ***Web Penetration Testing***
 >+ Reconnaissance
 >+ Recon Introduction
  >  + https://blog.securitybreached.org/2017/11/25/guide-to-basic-recon-for-bugbounty
