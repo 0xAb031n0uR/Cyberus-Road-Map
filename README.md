@@ -92,15 +92,16 @@ and **logistics** Department.
  >
  >
  >
- >+ Python Crash Course For Beginners [ 1 Hour 35 Min ]
-    https://www.youtube.com/watch?v=JJmcL1N2KQs
  >+ Html and CSS from maharatech https://maharatech.gov.eg/course/view.php?id=36
  >+ Javascript
  >https://www.freecodecamp.org/news/learn-javascript-full-course/
  >
  >\
  > ***Note***
- >+ Coding is Optional at this step not Mandatory at the beginning
+
+ >+  Python Crash Course For Beginners [ 1 Hour 35 Min ]
+    https://www.youtube.com/watch?v=JJmcL1N2KQs 
+    Coding is Optional at this step not Mandatory at the beginning
  >
  >------------
 + ***Networking***
