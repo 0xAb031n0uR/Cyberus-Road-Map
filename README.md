@@ -3,7 +3,7 @@
 
 ## [Cyberus](https://www.facebook.com/cyberustud "Cyberus")
 
-![Cyberus Logo](https://scontent.fcai20-1.fna.fbcdn.net/v/t39.30808-6/274892753_127037413174618_5531246449082956709_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE0Zj-MuFGFN3pGEDAsQXCRu8r_PxQhLP67yv8_FCEs_lmbzg83MRNXH5vM9OZvibYDr1FaHg3yQyeGa4Ip1zbh&_nc_ohc=aZHsVne4h4wAX8-yJpE&_nc_ht=scontent.fcai20-1.fna&oh=00_AT8vLK4YpMKoWr-EHdhPJsZR2tSt8XMH3uADvtni8HkLXQ&oe=63517DD5)
+![Cyberus Logo]([img/icon.png](https://scontent.fcai20-1.fna.fbcdn.net/v/t39.30808-6/274892753_127037413174618_5531246449082956709_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE0Zj-MuFGFN3pGEDAsQXCRu8r_PxQhLP67yv8_FCEs_lmbzg83MRNXH5vM9OZvibYDr1FaHg3yQyeGa4Ip1zbh&_nc_ohc=aZHsVne4h4wAX8-yJpE&_nc_ht=scontent.fcai20-1.fna&oh=00_AT8vLK4YpMKoWr-EHdhPJsZR2tSt8XMH3uADvtni8HkLXQ&oe=63517DD5))
 
 ------------
 
@@ -31,21 +31,10 @@ and **logistics** Department.
 ------------
 ▶ How can you follow us on social media ?
 
-💻[Web site]()
-
-💻[GitHub]()
 
 📱 [Facebook Page](https://www.facebook.com/cyberustud "Facebook Page")
 
-📱 [Facebook Group]()
-
-📱 [Twitter]()
-
 📱 [Linkedin](https://www.linkedin.com/company/cyberustud/ "Linkedin")
-
-👓[YouTube]()
-
-
 
 
 ------------
@@ -57,17 +46,17 @@ and **logistics** Department.
 ------------
 ## Before start you should know
 
-- What is a cyber security?
-
-  > Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security.
-
-- What do we need to start?
-
-  > To get start ine th cyber security world you need to know some basic things like:
-  >
-  > - Linux
-  > - Programming
-  > - Networking
+>- ***What is a cyber security***
+>
+> Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as >information technology security or electronic information security.
+>
+>- ***What do we need to start?***
+>
+> To get start ine th cyber security world you need to know some basic things like:
+>
+> - Linux
+> - Programming
+> - Networking
 
 ## Entry level
 
