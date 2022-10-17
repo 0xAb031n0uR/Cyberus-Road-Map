@@ -60,29 +60,29 @@ and **logistics** Department.
 
 ## Entry level
 
-- ***Linux***
-  >***What is Linux?***\
-  > Linux is a family of open source Unix-like operating systems based on the Linux kernel.
-  >
-  > ***why Linux?***\
-  > because it is free and open-source and it is the most used operating system for servers and cyber security.
-  >
-  > ***How to get started?***
-  >
-  > - [Linux Journey](https://linuxjourney.com/) - A free, open-source, self-paced Linux learning resource.
-  >
-  > you can use this website to learn Linux from the beginning since it is bigener friendly.
-  >
-  > 
-  >
-  > Keep in mind that you will learn by doing, so you should have a Linux machine to       practice on. You can use a virtual machine or install Linux on your computer.
-  >
-  >This video show how to download kali and import it to virtualbox : https://www.youtube.com/watch?v=HTTgvev5LQw
-  >
-  >***More Resources***
-  >
-  >+ Linux Basic Command Line Commands Crash Course [ 50 Mins ] https://www.youtube.com/watch?v=mT9GE3pEm8I
-  >+
+-***Linux***
+ >***What is Linux?***\
+ > Linux is a family of open source Unix-like operating systems based on the Linux kernel.
+ >
+ > ***why Linux?***\
+ > because it is free and open-source and it is the most used operating system for servers and cyber security.
+ >
+ > ***How to get started?***
+ >
+ > - [Linux Journey](https://linuxjourney.com/) - A free, open-source, self-paced Linux learning resource.
+ >
+ > you can use this website to learn Linux from the beginning since it is bigener friendly.
+ >
+ > 
+ >
+ > Keep in mind that you will learn by doing, so you should have a Linux machine to       practice on. You can use a virtual machine or install Linux on your computer.
+ >
+ >This video show how to download kali and import it to virtualbox : https://www.youtube.com/watch?v=HTTgvev5LQw
+ >
+ >***More Resources***
+ >
+ >+ Linux Basic Command Line Commands Crash Course [ 50 Mins ] https://www.youtube.com/watch?v=mT9GE3pEm8I
+ >+
 - ***programing***
  
  >***What we need from you in Programming?***\
