@@ -46,11 +46,15 @@ and **logistics** Department.
 ------------
 ## Before start you should know
 
->- ***What is a cyber security***
->
-> Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as >information technology security or electronic information security.
->
->- ***What do we need to start?***
+- What is a cyber security?
+
+ > Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security.
+ >
+ > There is tow types of cyber security:
+ >
+ > - *Offensive security*: It's the practice of attacking computer systems to find vulnerabilities that could be exploited by hackers.
+ > - *Defensive security*: It's the practice of protecting computer systems from attacks by hackers.
+ - ***What do we need to start?***
 >
 > To get start ine th cyber security world you need to know some basic things like:
 >
